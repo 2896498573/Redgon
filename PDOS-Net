@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T09:03:33.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iXUTUm2LC9_xtr9JRMNJ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T09:07:06.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Q-BASdXoxoqpmrmOmVUS" version="24.2.5" type="github">
   <diagram name="第 1 页" id="n0DuYXN_C8thxXYjhhmM">
     <mxGraphModel dx="1379" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;labelBorderColor=none;fontSize=15;fontStyle=1;fontFamily=Times New Roman;" parent="1" source="Z1dKLwnf_OGz-nWWNSpx-59" target="Z1dKLwnf_OGz-nWWNSpx-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z1dKLwnf_OGz-nWWNSpx-59" value="批归一化" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Z1dKLwnf_OGz-nWWNSpx-59" value="Batch Normalization" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=15;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="130" y="418" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-1" target="Z1dKLwnf_OGz-nWWNSpx-54" edge="1">
@@ -113,8 +113,8 @@
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-24" value="Convolutional Layer&amp;nbsp;#5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="205" y="799" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-27" value="预处理模块" style="text;html=1;align=left;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="55" y="240" width="100" height="30" as="geometry" />
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-27" value="Preprocessing" style="text;html=1;align=left;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;labelBorderColor=none;fontSize=15;fontStyle=1;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-28" target="_Vqv2G8Ves_7ncbbhlH7-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;labelBorderColor=none;fontSize=15;fontStyle=1;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-29" target="_Vqv2G8Ves_7ncbbhlH7-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-29" value="预处理模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;glass=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-29" value="&lt;span style=&quot;text-align: left; text-wrap: nowrap;&quot;&gt;Preprocessing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;glass=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="530" y="270" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qrTbncDqveskaaUIo9bg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-30" target="_Vqv2G8Ves_7ncbbhlH7-45" edge="1">
@@ -143,7 +143,7 @@
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;labelBorderColor=none;fontSize=15;fontStyle=1;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-40" target="_Vqv2G8Ves_7ncbbhlH7-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-40" value="预处理模块" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;glass=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-40" value="&lt;span style=&quot;text-align: left; text-wrap: nowrap;&quot;&gt;Preprocessing&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;glass=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="705" y="270" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qrTbncDqveskaaUIo9bg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-41" target="_Vqv2G8Ves_7ncbbhlH7-45" edge="1">
@@ -157,14 +157,14 @@
         <mxCell id="_Vqv2G8Ves_7ncbbhlH7-41" value="&lt;span style=&quot;text-align: left; text-wrap: nowrap;&quot;&gt;CNN Featurizer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fontSize=15;glass=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="705" y="341" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-42" value="相关表面原子DOS #1" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="200" y="170" width="160" height="30" as="geometry" />
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-42" value="PDOS of Correlated Surface Atom&amp;nbsp;#1" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="155" y="170" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-43" value="相关表面原子DOS #2" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="525" y="170" width="160" height="30" as="geometry" />
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-43" value="Atom&amp;nbsp;#2" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="565" y="170" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-44" value="相关表面原子DOS #3" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="700" y="170" width="160" height="30" as="geometry" />
+        <mxCell id="_Vqv2G8Ves_7ncbbhlH7-44" value="Atom #3" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;strokeWidth=2;labelBorderColor=none;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="740" y="170" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qrTbncDqveskaaUIo9bg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fontFamily=Times New Roman;" parent="1" source="_Vqv2G8Ves_7ncbbhlH7-45" target="_Vqv2G8Ves_7ncbbhlH7-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
